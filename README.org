@@ -1,0 +1,10 @@
+* trivial-dump-core
+
+trivial-dump-core is a small wrapper that provides a common interface between Lisp implementations for the creation of Lisp cores and executables
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/rolpereira/trivial-dump-core.git   |
+| commit  | 9d08f65  |
+| systems | trivial-dump-core |
+|---------+-------------------------------------------|
+
