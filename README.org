@@ -8,4 +8,4 @@ trivial-dump-core is a small wrapper that provides a common interface between Li
 | systems | trivial-dump-core |
 |---------+-------------------------------------------|
 
- 
+  
